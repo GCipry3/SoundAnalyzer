@@ -1,0 +1,1 @@
+-force-include-file "proiect.c";"c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c" -force-include-file "proiect.h";"c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.h" 

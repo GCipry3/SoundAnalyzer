@@ -1,0 +1,65 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:50:5"
+
+[FiltruMediere]
+Class="Function"
+Prototype="double *FiltruMediere(int m);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:64:9"
+
+[FiltruOrdinI]
+Class="Function"
+Prototype="double *FiltruOrdinI(double alpha);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:78:9"
+
+[incarcareFiltru]
+Class="Function"
+Prototype="void incarcareFiltru(int panel);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:92:6"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:127:17"
+
+[OnFilterRing]
+Class="Function"
+Prototype="int OnFilterRing(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:197:17"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:209:17"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:224:17"
+
+[OnFreqPanelCB]
+Class="Function"
+Prototype="int OnFreqPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:239:17"
+
+[OnWavePanelCB]
+Class="Function"
+Prototype="int OnWavePanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:257:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:275:17"
+
+[OnFilterButtonCB]
+Class="Function"
+Prototype="int OnFilterButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:300:17"
+
+[OnFrequencyButtonCB]
+Class="Function"
+Prototype="int OnFrequencyButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Desktop\APDP\proiect.c:387:17"
+

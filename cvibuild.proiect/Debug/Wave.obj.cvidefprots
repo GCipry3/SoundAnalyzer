@@ -1,0 +1,65 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:49:5"
+
+[ON_WAVE_PANEL]
+Class="Function"
+Prototype="int ON_WAVE_PANEL(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:64:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:82:17"
+
+[On_Prev]
+Class="Function"
+Prototype="int On_Prev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:169:17"
+
+[On_Next]
+Class="Function"
+Prototype="int On_Next(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:194:17"
+
+[On_Aplica]
+Class="Function"
+Prototype="int On_Aplica(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:219:17"
+
+[FiltreType]
+Class="Function"
+Prototype="int FiltreType(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:274:17"
+
+[Generare_Anvelopa]
+Class="Function"
+Prototype="int Generare_Anvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:306:17"
+
+[Generate_Deriv]
+Class="Function"
+Prototype="int Generate_Deriv(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:329:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:349:17"
+
+[OnFrequencyButtonCB]
+Class="Function"
+Prototype="int OnFrequencyButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:374:17"
+
+[OnFilterButtonCB]
+Class="Function"
+Prototype="int OnFilterButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:423:17"
+
+[OnSaveCB]
+Class="Function"
+Prototype="int OnSaveCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Galbeaza Ciprian\Downloads\gabriela\Eu\APD-Proiect\Wave.c:548:17"
+
